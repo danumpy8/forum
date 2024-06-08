@@ -1,1 +1,1 @@
-# forum
+This project is the first version of a simple page of login, recovery and reset pass, register a user, etc. This is like a beta because i'm starting recently so if the page has some mistakes please write me a comment. I'm gonna try to implement the SQL connection with MySQL as soon as posible :)
